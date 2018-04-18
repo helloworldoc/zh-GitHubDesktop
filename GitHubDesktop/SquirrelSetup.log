@@ -1,0 +1,368 @@
+﻿2018-04-17 11:18:47> Program: Starting Squirrel Updater: --createShortcut GitHubDesktop.exe -l StartMenu,Desktop
+2018-04-17 11:18:47> ApplyReleasesImpl: About to create shortcuts for GitHubDesktop.exe, rootAppDir C:\Users\yuhan.lei\AppData\Local\GitHubDesktop
+2018-04-17 11:18:47> ApplyReleasesImpl: Creating shortcut for GitHubDesktop.exe => C:\Users\yuhan.lei\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc.\GitHub Desktop.lnk
+2018-04-17 11:18:47> ApplyReleasesImpl: About to save shortcut: C:\Users\yuhan.lei\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc.\GitHub Desktop.lnk (target C:\Users\yuhan.lei\AppData\Local\GitHubDesktop\GitHubDesktop.exe, workingDir C:\Users\yuhan.lei\AppData\Local\GitHubDesktop\app-1.1.1, args , toastActivatorCSLID 27d44d0c-a542-5b90-bcdb-ac3126048ba2)
+2018-04-17 11:18:47> ApplyReleasesImpl: Creating shortcut for GitHubDesktop.exe => C:\Users\yuhan.lei\Desktop\GitHub Desktop.lnk
+2018-04-17 11:18:47> ApplyReleasesImpl: About to save shortcut: C:\Users\yuhan.lei\Desktop\GitHub Desktop.lnk (target C:\Users\yuhan.lei\AppData\Local\GitHubDesktop\GitHubDesktop.exe, workingDir C:\Users\yuhan.lei\AppData\Local\GitHubDesktop\app-1.1.1, args , toastActivatorCSLID 27d44d0c-a542-5b90-bcdb-ac3126048ba2)
+2018-04-17 11:18:55> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 11:18:55> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 11:18:55> CheckForUpdateImpl: Generated new staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 11:18:55> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 11:18:55> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:26:38> Program: Starting Squirrel Updater: 
+2018-04-17 13:37:37> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:37:37> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:37:37> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:37:37> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:37:38> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:37:53> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:37:53> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:37:53> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:37:53> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:37:53> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:43:13> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:43:13> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:43:13> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:43:14> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:43:14> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:50:32> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:50:32> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:50:32> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:50:32> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:50:32> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:50:45> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:50:45> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:50:45> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:50:45> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:50:46> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:51:58> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:51:58> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:51:58> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:51:58> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:51:58> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:52:22> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:52:22> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:52:22> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:52:22> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:52:23> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:52:51> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:52:51> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:52:51> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:52:51> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:52:51> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:53:48> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:53:48> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:53:48> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:53:48> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:53:48> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:54:16> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:54:16> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:54:16> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:54:16> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:54:16> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:55:21> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:55:21> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:55:21> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:55:21> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:55:21> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:58:57> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:58:57> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:58:58> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:58:58> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:58:58> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 13:59:33> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:59:34> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:59:34> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 13:59:34> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 13:59:34> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 14:07:47> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:07:47> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:07:47> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 14:07:47> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:07:47> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 14:13:09> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:13:09> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:13:09> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 14:13:09> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:13:09> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 14:26:02> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:26:02> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:26:02> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 14:26:02> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:26:02> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 14:29:58> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:29:58> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:29:58> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 14:29:58> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:29:58> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 14:30:20> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:30:20> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:30:20> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 14:30:20> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:30:21> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 14:31:04> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:31:04> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:31:04> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 14:31:04> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:31:04> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 14:31:29> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:31:29> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:31:29> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 14:31:29> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:31:29> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 14:32:08> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:32:08> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:32:08> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 14:32:08> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:32:08> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 14:38:37> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:38:37> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:38:37> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 14:38:37> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:38:38> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 14:40:53> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:40:53> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:40:53> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 14:40:53> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:40:53> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 14:41:12> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:41:12> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:41:12> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 14:41:12> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 14:41:12> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 15:50:12> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 15:50:12> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 15:50:12> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 15:50:12> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 15:50:12> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 16:03:32> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 16:03:32> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 16:03:32> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 16:03:32> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 16:03:32> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-17 16:10:08> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 16:10:08> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 16:10:08> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-17 16:10:08> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-17 16:10:08> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-18 09:27:01> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:27:01> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:27:01> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-18 09:27:01> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:27:02> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-18 09:27:05> IEnableLogger: Failed to download url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64: System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+2018-04-18 09:27:05> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/releases?version=1.1.1&env=production&id=githubdesktop&localversion=1.1.1&arch=amd64
+2018-04-18 09:27:05> IEnableLogger: Failed to download url: https://central.github.com/api/deployments/desktop/desktop/latest/releases?version=1.1.1&env=production&id=githubdesktop&localversion=1.1.1&arch=amd64: System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+2018-04-18 09:27:05> CheckForUpdateImpl: Download resulted in WebException (returning blank release list): System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.FileDownloader.<DownloadUrl>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Squirrel.UpdateManager.CheckForUpdateImpl.<CheckForUpdate>d__2.MoveNext()
+2018-04-18 09:27:05> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-18 09:27:05> IEnableLogger: Failed to download url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64: System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+2018-04-18 09:27:05> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/releases?version=1.1.1&env=production&id=githubdesktop&localversion=1.1.1&arch=amd64
+2018-04-18 09:27:05> IEnableLogger: Failed to download url: https://central.github.com/api/deployments/desktop/desktop/latest/releases?version=1.1.1&env=production&id=githubdesktop&localversion=1.1.1&arch=amd64: System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+2018-04-18 09:27:05> CheckForUpdateImpl: Download resulted in WebException (returning blank release list): System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.FileDownloader.<DownloadUrl>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Squirrel.UpdateManager.CheckForUpdateImpl.<CheckForUpdate>d__2.MoveNext()
+2018-04-18 09:27:05> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-18 09:27:05> IEnableLogger: Failed to download url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64: System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+2018-04-18 09:27:05> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/releases?version=1.1.1&env=production&id=githubdesktop&localversion=1.1.1&arch=amd64
+2018-04-18 09:27:05> IEnableLogger: Failed to download url: https://central.github.com/api/deployments/desktop/desktop/latest/releases?version=1.1.1&env=production&id=githubdesktop&localversion=1.1.1&arch=amd64: System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+2018-04-18 09:27:05> CheckForUpdateImpl: Download resulted in WebException (returning blank release list): System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.FileDownloader.<DownloadUrl>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Squirrel.UpdateManager.CheckForUpdateImpl.<CheckForUpdate>d__2.MoveNext()
+2018-04-18 09:27:05> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-18 09:27:05> IEnableLogger: Failed to download url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64: System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+2018-04-18 09:27:05> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/releases?version=1.1.1&env=production&id=githubdesktop&localversion=1.1.1&arch=amd64
+2018-04-18 09:27:05> IEnableLogger: Failed to download url: https://central.github.com/api/deployments/desktop/desktop/latest/releases?version=1.1.1&env=production&id=githubdesktop&localversion=1.1.1&arch=amd64: System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+2018-04-18 09:27:05> CheckForUpdateImpl: Download resulted in WebException (returning blank release list): System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.FileDownloader.<DownloadUrl>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Squirrel.UpdateManager.CheckForUpdateImpl.<CheckForUpdate>d__2.MoveNext()
+2018-04-18 09:27:05> Unhandled exception: System.AggregateException: One or more errors occurred. ---> System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.FileDownloader.<DownloadUrl>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Squirrel.UpdateManager.CheckForUpdateImpl.<CheckForUpdate>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.UpdateManager.<CheckForUpdate>d__7.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Update.Program.<CheckForUpdate>d__8.MoveNext()
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Squirrel.Update.Program.executeCommandLine(String[] args)
+   at Squirrel.Update.Program.main(String[] args)
+---> (Inner Exception #0) System.Net.WebException: The remote name could not be resolved: 'central.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__38`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.FileDownloader.<DownloadUrl>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Squirrel.UpdateManager.CheckForUpdateImpl.<CheckForUpdate>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.UpdateManager.<CheckForUpdate>d__7.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Update.Program.<CheckForUpdate>d__8.MoveNext()<---
+
+2018-04-18 09:29:40> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:29:40> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:29:40> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-18 09:29:40> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:29:40> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-18 09:39:17> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:39:17> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:39:17> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-18 09:39:18> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:39:18> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-18 09:42:43> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:42:43> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:42:44> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-18 09:42:44> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:42:44> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
+2018-04-18 09:49:45> Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:49:45> Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:49:45> CheckForUpdateImpl: Using existing staging user ID: bdb9f0ba-e74c-56e7-9c1b-a6f192734fd5
+2018-04-18 09:49:45> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=1.1.1&env=production
+2018-04-18 09:49:45> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=1.1.1&env=production&id=GitHubDesktop&localVersion=1.1.1&arch=amd64
